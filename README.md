@@ -1,6 +1,6 @@
 # Sort-Python-Various
 
-# Python Basics Programming Projects
+## Python Basics Programming Projects
 
 A collection of fundamental beginner Python projects i made while learning the language. Most of them are terrible, so don't mind that. I'll be slowly uploading the one's i find.
 
